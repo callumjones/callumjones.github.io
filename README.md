@@ -15,13 +15,17 @@ Federal Reserve Board
 
 ## Working Papers
 
-1. [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (w/ D. Comin and R. Johnson)  
-2. [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v7.pdf)  (w/ A. Blanco, C. Boar and V. Midrigan)
-3. [A Structural Measure of the Shadow Federal Funds Rate](./files/shadowrate.pdf) (w/ M. Kulish and J. Morley) 
+- [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (w/ D. Comin and R. Johnson)  
+
+- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v7.pdf)  (w/ A. Blanco, C. Boar and V. Midrigan)
+
+- [A Structural Measure of the Shadow Federal Funds Rate](./files/shadowrate.pdf) (w/ M. Kulish and J. Morley) 
 [Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
-4. [Credit Cycles, Fiscal Policy, and Global Imbalances](https://www.imf.org/en/Publications/WP/Issues/2021/02/19/Credit-Cycles-Fiscal-Policy-and-Global-Imbalances-50084) (w/ P. Rabanal)   [Appendix](./files/fin_cycles_appendix.pdf) 
+
+- [Credit Cycles, Fiscal Policy, and Global Imbalances](https://www.imf.org/en/Publications/WP/Issues/2021/02/19/Credit-Cycles-Fiscal-Policy-and-Global-Imbalances-50084) (w/ P. Rabanal)   [Appendix](./files/fin_cycles_appendix.pdf) 
 *Journal of International Economics*, Revise and Resubmit
-5. [Priors and the Slope of the Phillips Curve](./files/jkn_priors.pdf) (w/ M. Kulish and J.P. Nicolini)
+
+- [Priors and the Slope of the Phillips Curve](./files/jkn_priors.pdf) (w/ M. Kulish and J.P. Nicolini)
 
 - [Is There a Stable Relationship between Unemployment and Future Inflation?](./files/phillipscurve.pdf) (w/ T. Fitzgerald, M. Kulish and J.P. Nicolini)  [Appendix](./files/fjkn_aej_macro_appendix.pdf) 
 *AEJ: Macroeconomics*, Conditionally Accepted
