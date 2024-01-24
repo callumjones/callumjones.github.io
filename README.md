@@ -18,7 +18,7 @@ Federal Reserve Board
 
 ## Working Papers
 
-- [Import Constraints](./files/import_constraints.pdf) (with Diego Comin and Robert Johnson)
+- [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)
 *American Economic Review: Papers and Proceedings*
 
 - [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (with Diego Comin and Robert Johnson)  
