@@ -18,6 +18,9 @@ Federal Reserve Board
 
 ## Working Papers
 
+- [Import Constraints](./files/import_constraints.pdf) (with Diego Comin and Robert Johnson)
+*American Economic Review: Papers and Proceedings*
+
 - [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (with Diego Comin and Robert Johnson)  
 
 - [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v7.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
@@ -58,8 +61,8 @@ Federal Reserve Board
         (with Thomas Philippon and Venky Venkateswaran)  
         *Review of Financial Studies*, 2021
 
-- [International Spillovers of Forward Guidance Shocks](./files/OpenFG.pdf)  (with Mariano Kulish and Daniel M. Rees)  
-[Appendix](./files/OpenFG_appendix.pdf)  
+- [International Spillovers of Forward Guidance Shocks](https://doi.org/10.1002/jae.2858)  (with Mariano Kulish and Daniel M. Rees)  
+[Appendix](./files/OpenFG_appendix.pdf) [Github](https://github.com/callumjones/fg-spillovers)
 *Journal of Applied Econometrics*, 2021
 
 - [A Graphical Representation of an Estimated New Keynesian Model](./files/graphical.pdf) (with Mariano Kulish)  
