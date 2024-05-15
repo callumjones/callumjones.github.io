@@ -25,7 +25,7 @@ Federal Reserve Board
 
 - [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v7.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
-- [A Structural Measure of the Shadow Federal Funds Rate](./files/shadowrate.pdf) (with Mariano Kulish and James Morley) 
+- [A Structural Measure of the Shadow Federal Funds Rate](./files/shadowrate.pdf) (with Mariano Kulish and James Morley)  
 [Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
 
 - [Credit Cycles, Fiscal Policy, and Global Imbalances](https://www.imf.org/en/Publications/WP/Issues/2021/02/19/Credit-Cycles-Fiscal-Policy-and-Global-Imbalances-50084) (with Pau Rabanal)  
