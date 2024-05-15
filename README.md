@@ -46,14 +46,14 @@ Federal Reserve Board
 [Appendix](./files/demo_appendix.pdf)  
 *Review of Economics and Statistics*, Forthcoming
 
-- [Household Leverage and the Recession](./files/hholddebt.pdf) (with Virgiliu Midrigan and Thomas Philippon) 
+- [Household Leverage and the Recession](./files/hholddebt.pdf) (with Virgiliu Midrigan and Thomas Philippon)   
 [Appendix](./files/hholddebt_appendix.pdf)  
 *Econometrica*, 2022
 
 - [Yield Curve Control and Zero Interest Rate Policy in a Small Open Economy](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.12484) (with Mariano Kulish)  
 *Australian Economic Review*, 2022
 
-- [Entry Costs and Aggregate Dynamics](./files/entrycosts_agg.pdf) (with German Gutiérrez and Thomas Philippon) 
+- [Entry Costs and Aggregate Dynamics](./files/entrycosts_agg.pdf) (with German Gutiérrez and Thomas Philippon)  
 [Appendix](./files/entrycosts_agg_appendix.pdf), [2019 Version](./files/entrycosts.pdf)  
 *Journal of Monetary Economics*, 2021
 
