@@ -12,13 +12,13 @@ Federal Reserve Board
 
 :book: [Google Scholar](https://scholar.google.com/citations?user=--GNzKcAAAAJ&hl=en)  
 
-:octocat: [Github](https://github.com/callumjones)
+:floppy_disk: [Github](https://github.com/callumjones)
 
 :bookmark: Disclaimer: The views on this website are my own and not those of the Federal Reserve System or the Federal Reserve Board.
 
 ## Working Papers
 
-- [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)
+- [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)  
 *American Economic Review: Papers and Proceedings*
 
 - [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (with Diego Comin and Robert Johnson)  
