@@ -29,13 +29,13 @@ Federal Reserve Board
 [Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
 
 - [Credit Cycles, Fiscal Policy, and Global Imbalances](https://www.imf.org/en/Publications/WP/Issues/2021/02/19/Credit-Cycles-Fiscal-Policy-and-Global-Imbalances-50084) (with Pau Rabanal)  
-[Appendix](./files/fin_cycles_appendix.pdf) 
+[Appendix](./files/fin_cycles_appendix.pdf)  
 *Journal of International Economics*, Revise and Resubmit
 
 - [Priors and the Slope of the Phillips Curve](./files/jkn_priors.pdf) (with Mariano Kulish and Juan Pablo Nicolini)
 
 - [Is There a Stable Relationship between Unemployment and Future Inflation?](./files/phillipscurve.pdf) (with Terry Fitzgerald, Mariano Kulish and Juan Pablo Nicolini)  
-[Appendix](./files/fjkn_aej_macro_appendix.pdf) 
+[Appendix](./files/fjkn_aej_macro_appendix.pdf)  
 *AEJ: Macroeconomics*, Conditionally Accepted
 
 - [Unanticipated Shocks and Forward Guidance at the ZLB](./files/ZLB.pdf)  [Appendix](./files/ZLB_appendix.pdf)
