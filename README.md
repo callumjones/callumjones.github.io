@@ -23,7 +23,7 @@ Federal Reserve Board
 
 - [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (with Diego Comin and Robert Johnson)  
 
-- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v7.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
+- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [A Structural Measure of the Shadow Federal Funds Rate](./files/shadowrate.pdf) (with Mariano Kulish and James Morley)  
 [Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
