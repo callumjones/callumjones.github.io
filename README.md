@@ -18,7 +18,7 @@ Federal Reserve Board
 
 ## Working Papers
 
-- [The Inflation Accelerator](./files/paper_v7.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
+- [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)  
 *American Economic Review: Papers and Proceedings*
