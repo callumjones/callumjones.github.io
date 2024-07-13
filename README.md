@@ -4,7 +4,7 @@ Principal Economist
 Monetary Affairs  
 Federal Reserve Board
 
-<img src="img.jpg" alt="Alt Text" width="100"/>  
+
 
 :email: [callum.j.jones@frb.gov](mailto:callum.j.jones@frb.gov)
 
