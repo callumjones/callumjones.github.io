@@ -18,10 +18,9 @@ Federal Reserve Board
 
 ## Working Papers
 
-- [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
+- [Nonlinear Dynamics in Menu Cost Economies? Evidence from U.S. Data](./files/bbjm_short.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
-- [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)  
-*American Economic Review: Papers and Proceedings*
+- [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (with Diego Comin and Robert Johnson)  
 
@@ -43,6 +42,9 @@ Federal Reserve Board
 - [Unanticipated Shocks and Forward Guidance at the ZLB](./files/ZLB.pdf)  [Appendix](./files/ZLB_appendix.pdf)
 
 ## Published and Forthcoming Papers
+
+- [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)  
+*American Economic Review: Papers and Proceedings*
 
 - [Aging, Secular Stagnation and the Business Cycle](./files/demo.pdf)  
 [Appendix](./files/demo_appendix.pdf)  
