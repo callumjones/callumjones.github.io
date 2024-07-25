@@ -18,6 +18,8 @@ Federal Reserve Board
 
 ## Working Papers
 
+- Deeds Not Words: Inflation in the United States, Japan and Chile (with Mariano Kulish and Juan Pablo Nicolini)
+
 - [Nonlinear Dynamics in Menu Cost Economies? Evidence from U.S. Data](./files/bbjm_short.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
@@ -39,7 +41,8 @@ Federal Reserve Board
 [Appendix](./files/fjkn_aej_macro_appendix.pdf)  
 *AEJ: Macroeconomics*, Conditionally Accepted
 
-- [Unanticipated Shocks and Forward Guidance at the ZLB](./files/ZLB.pdf)  [Appendix](./files/ZLB_appendix.pdf)
+- [Unanticipated Shocks and Forward Guidance at the ZLB](./files/ZLB.pdf)  
+[Appendix](./files/ZLB_appendix.pdf)
 
 ## Published and Forthcoming Papers
 
