@@ -4,8 +4,6 @@ Principal Economist
 Monetary Affairs  
 Federal Reserve Board
 
-
-
 :email: [callum.j.jones@frb.gov](mailto:callum.j.jones@frb.gov)
 
 :memo: [Curriculum Vitae](files/CallumJones.pdf)  
@@ -20,31 +18,31 @@ Federal Reserve Board
 
 - Deeds Not Words: Inflation in the United States, Japan and Chile (with Mariano Kulish and Juan Pablo Nicolini)
 
+- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v6.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
+
 - [Nonlinear Dynamics in Menu Cost Economies? Evidence from U.S. Data](./files/bbjm_short.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
-- [Supply Chain Constraints and Inflation](./files/constraints_inflation.pdf) (with Diego Comin and Robert Johnson)  
+- [Supply Chain Constraints and Inflation](./files/Supply%20Chain%20Constraints%20and%20Inflation%20824.pdf) (with Diego Comin and Robert Johnson)  
 
-- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
-
-- [A Structural Measure of the Shadow Federal Funds Rate](./files/shadowrate.pdf) (with Mariano Kulish and James Morley)  
+- [A Structural Measure of the Shadow Federal Funds Rate](./files/jkm_June2024.pdf) (with Mariano Kulish and James Morley)  
 [Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
 
-- [Credit Cycles, Fiscal Policy, and Global Imbalances](https://www.imf.org/en/Publications/WP/Issues/2021/02/19/Credit-Cycles-Fiscal-Policy-and-Global-Imbalances-50084) (with Pau Rabanal)  
-[Appendix](./files/fin_cycles_appendix.pdf)  
-*Journal of International Economics*, Revise and Resubmit
+- [Credit Cycles, Fiscal Policy, and Global Imbalances](./files/fin_cycles_v5.pdf) (with Pau Rabanal)  
+[Appendix](./files/fin_cycles_appendix_v5.pdf)  
+*Journal of International Economics*, Conditionally Accepted
 
 - [Priors and the Slope of the Phillips Curve](./files/jkn_priors.pdf) (with Mariano Kulish and Juan Pablo Nicolini)
-
-- [Is There a Stable Relationship between Unemployment and Future Inflation?](./files/phillipscurve.pdf) (with Terry Fitzgerald, Mariano Kulish and Juan Pablo Nicolini)  
-[Appendix](./files/fjkn_aej_macro_appendix.pdf)  
-*AEJ: Macroeconomics*, Conditionally Accepted
 
 - [Unanticipated Shocks and Forward Guidance at the ZLB](./files/ZLB.pdf)  
 [Appendix](./files/ZLB_appendix.pdf)
 
 ## Published and Forthcoming Papers
+
+- [Is There a Stable Relationship between Unemployment and Future Inflation?](./files/phillipscurve.pdf) (with Terry Fitzgerald, Mariano Kulish and Juan Pablo Nicolini)  
+[Appendix](./files/fjkn_aej_macro_appendix.pdf)  
+*AEJ: Macroeconomics*, Forthcoming
 
 - [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)  
 *American Economic Review: Papers and Proceedings*
