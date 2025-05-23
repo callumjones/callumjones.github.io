@@ -25,13 +25,10 @@ Federal Reserve Board
 - [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [Supply Chain Constraints and Inflation](./files/Supply%20Chain%20Constraints%20and%20Inflation%20824.pdf) (with Diego Comin and Robert Johnson)  
+*Review of Economic Studies*, Revise and Resubmit
 
 - [A Structural Measure of the Shadow Federal Funds Rate](./files/jkm_June2024.pdf) (with Mariano Kulish and James Morley)  
 [Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
-
-- [Credit Cycles, Fiscal Policy, and Global Imbalances](./files/fin_cycles_v5.pdf) (with Pau Rabanal)  
-[Appendix](./files/fin_cycles_appendix_v5.pdf)  
-*Journal of International Economics*, Conditionally Accepted
 
 - [Priors and the Slope of the Phillips Curve](./files/jkn_priors.pdf) (with Mariano Kulish and Juan Pablo Nicolini)
 
@@ -40,16 +37,20 @@ Federal Reserve Board
 
 ## Published and Forthcoming Papers
 
-- [Is There a Stable Relationship between Unemployment and Future Inflation?](./files/phillipscurve.pdf) (with Terry Fitzgerald, Mariano Kulish and Juan Pablo Nicolini)  
-[Appendix](./files/fjkn_aej_macro_appendix.pdf)  
-*AEJ: Macroeconomics*, Forthcoming
+- [Credit Cycles, Fiscal Policy, and Global Imbalances](./files/fin_cycles_v5.pdf) (with Pau Rabanal)  
+[Appendix](./files/fin_cycles_appendix_v5.pdf)  
+*Journal of International Economics*, 2025
 
 - [Import Constraints](https://www.nber.org/papers/w32072) (with Diego Comin and Robert Johnson)  
-*American Economic Review: Papers and Proceedings*
+*American Economic Review: Papers and Proceedings*, 2025
+
+- [Is There a Stable Relationship between Unemployment and Future Inflation?](./files/phillipscurve.pdf) (with Terry Fitzgerald, Mariano Kulish and Juan Pablo Nicolini)  
+[Appendix](./files/fjkn_aej_macro_appendix.pdf)  
+*AEJ: Macroeconomics*, 2024
 
 - [Aging, Secular Stagnation and the Business Cycle](./files/demo.pdf)  
 [Appendix](./files/demo_appendix.pdf)  
-*Review of Economics and Statistics*, Forthcoming
+*Review of Economics and Statistics*, 2024
 
 - [Household Leverage and the Recession](./files/hholddebt.pdf) (with Virgiliu Midrigan and Thomas Philippon)   
 [Appendix](./files/hholddebt_appendix.pdf)  
