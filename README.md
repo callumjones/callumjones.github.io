@@ -23,6 +23,7 @@ Federal Reserve Board
 - [Nonlinear Dynamics in Menu Cost Economies? Evidence from U.S. Data](./files/bbjm_short.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
 - [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
+*American Economic Review*, Revise and Resubmit
 
 - [Supply Chain Constraints and Inflation](./files/Supply%20Chain%20Constraints%20and%20Inflation%20824.pdf) (with Diego Comin and Robert Johnson)  
 *Review of Economic Studies*, Revise and Resubmit
