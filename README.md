@@ -16,6 +16,8 @@ Federal Reserve Board
 
 ## Working Papers
 
+- [Implications of Inflation Dynamics for Monetary Policy Strategies](https://www.federalreserve.gov/econres/feds/implications-of-inflation-dynamics-for-monetary-policy-strategies.htm) (with Hess Chung, Antoine Lepetit and Fernando Martin)
+
 - Deeds Not Words: Inflation in the United States, Japan and Chile (with Mariano Kulish and Juan Pablo Nicolini)
 
 - [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v6.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
@@ -29,7 +31,8 @@ Federal Reserve Board
 *Review of Economic Studies*, Revise and Resubmit
 
 - [A Structural Measure of the Shadow Federal Funds Rate](./files/jkm_June2024.pdf) (with Mariano Kulish and James Morley)  
-[Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)
+[Download Latest Shadow Rate Estimate](https://github.com/callumjones/shadow-rate)  
+*Journal of Money, Credit, and Banking*, Revise and Resubmit
 
 - [Priors and the Slope of the Phillips Curve](./files/jkn_priors.pdf) (with Mariano Kulish and Juan Pablo Nicolini)
 
