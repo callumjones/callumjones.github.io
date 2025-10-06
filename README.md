@@ -10,8 +10,6 @@ Federal Reserve Board
 
 :book: [Google Scholar](https://scholar.google.com/citations?user=--GNzKcAAAAJ&hl=en)  
 
-:floppy_disk: [Github](https://github.com/callumjones)
-
 :bookmark: Disclaimer: The views on this website are my own and not those of the Federal Reserve System or the Federal Reserve Board.
 
 ## Working Papers
