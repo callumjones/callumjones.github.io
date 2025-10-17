@@ -18,7 +18,8 @@ Federal Reserve Board
 
 - Deeds Not Words: Inflation in the United States, Japan and Chile (with Mariano Kulish and Juan Pablo Nicolini)
 
-- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v6.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
+- [Nonlinear Inflation Dynamics in Menu Cost Economies](./files/bbjm_v6.pdf)  (with Andres Blanco, Corina Boar and Virgiliu Midrigan)  
+*Journal of Political Economy*, Revise and Resubmit
 
 - [Nonlinear Dynamics in Menu Cost Economies? Evidence from U.S. Data](./files/bbjm_short.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
 
