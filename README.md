@@ -4,6 +4,9 @@ Principal Economist
 Monetary Affairs  
 Federal Reserve Board
 
+Adjunct Professor
+Georgetown University
+
 :email: [callum.j.jones@frb.gov](mailto:callum.j.jones@frb.gov)
 
 :memo: [Curriculum Vitae](files/CallumJones.pdf)  
@@ -14,6 +17,11 @@ Federal Reserve Board
 
 ## Working Papers
 
+- [Is Growth Additive? A Bayesian Model Analysis and Evidence from Forecasts](./files/AddGrowth_macro_jlsp3.pdf) (with David Lopez-Salido and Thomas Philippon)
+
+- [The Inflation Accelerator](./files/paper_v11.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)  
+*American Economic Review*, Revise and Resubmit
+
 - [Implications of Inflation Dynamics for Monetary Policy Strategies](https://www.federalreserve.gov/econres/feds/implications-of-inflation-dynamics-for-monetary-policy-strategies.htm) (with Hess Chung, Antoine Lepetit and Fernando Martin)
 
 - Deeds Not Words: Inflation in the United States, Japan and Chile (with Mariano Kulish and Juan Pablo Nicolini)
@@ -22,9 +30,6 @@ Federal Reserve Board
 *Journal of Political Economy*, Revise and Resubmit
 
 - [Nonlinear Dynamics in Menu Cost Economies? Evidence from U.S. Data](./files/bbjm_short.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)
-
-- [The Inflation Accelerator](./files/paper_v1.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)  
-*American Economic Review*, Revise and Resubmit
 
 - [Supply Chain Constraints and Inflation](./files/Supply%20Chain%20Constraints%20and%20Inflation%20824.pdf) (with Diego Comin and Robert Johnson)  
 *Review of Economic Studies*, Revise and Resubmit
