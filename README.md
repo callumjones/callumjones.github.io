@@ -4,7 +4,7 @@ Principal Economist
 Monetary Affairs  
 Federal Reserve Board
 
-Adjunct Professor
+Adjunct Faculty  
 Georgetown University
 
 :email: [callum.j.jones@frb.gov](mailto:callum.j.jones@frb.gov)
