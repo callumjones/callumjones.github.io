@@ -20,7 +20,7 @@ Georgetown University
 - [Is Growth Additive? A Bayesian Model Analysis and Evidence from Forecasts](./files/AddGrowth_macro_jlsp3.pdf) (with David Lopez-Salido and Thomas Philippon)
 
 - [The Inflation Accelerator](./files/paper_v11.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)  
-*American Economic Review*, Revise and Resubmit
+*American Economic Review*, Conditionally Accepted
 
 - [Implications of Inflation Dynamics for Monetary Policy Strategies](https://www.federalreserve.gov/econres/feds/implications-of-inflation-dynamics-for-monetary-policy-strategies.htm) (with Hess Chung, Antoine Lepetit and Fernando Martin)
 
