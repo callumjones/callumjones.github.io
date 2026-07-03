@@ -17,7 +17,7 @@ Georgetown University
 
 ## Working Papers
 
-- [Is Growth Additive? A Bayesian Model Analysis and Evidence from Forecasts](./files/AddGrowth_macro_jlsp3.pdf) (with David Lopez-Salido and Thomas Philippon)
+- [Is Growth Additive?](./files/additive.pdf) (with David Lopez-Salido and Thomas Philippon)
 
 - [The Inflation Accelerator](./files/paper_v11.pdf) (with Andres Blanco, Corina Boar and Virgiliu Midrigan)  
 *American Economic Review*, Conditionally Accepted
